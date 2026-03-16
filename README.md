@@ -1,4 +1,4 @@
-# Welcome tomy project
+# Welcome to my project
 
 
 Follow these steps:
